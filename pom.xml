@@ -25,7 +25,7 @@
             <!-- 覆盖了父POM的版本号 -->
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.11</version>
+            <version>4.13.1</version>
         </dependency>
         <dependency>
             <groupId>com.squareup.okhttp3</groupId>
